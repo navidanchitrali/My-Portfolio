@@ -69,37 +69,20 @@
 
 # Habbit Tracker App
 
-
-1. Home Screen
-
-
-![Screenshot_1](https://user-images.githubusercontent.com/48487470/190139825-f0a9286c-7aec-4ce7-babc-7015639f7671.jpg)
+ 
 
 
-2. Goals Screen
+![Screenshot_1](https://user-images.githubusercontent.com/48487470/190139825-f0a9286c-7aec-4ce7-babc-7015639f7671.jpg)   ![Screenshot_2](https://user-images.githubusercontent.com/48487470/190138984-69de267c-b7a9-49e4-890d-32522bb53b90.jpg)
 
 
 
-![Screenshot_2](https://user-images.githubusercontent.com/48487470/190138984-69de267c-b7a9-49e4-890d-32522bb53b90.jpg)
+
+![Screenshot_3](https://user-images.githubusercontent.com/48487470/190139567-098aae20-e2bd-49c4-adea-3746d1c43d94.jpg)    ![Screenshot_4](https://user-images.githubusercontent.com/48487470/190139690-b5b146a5-5d93-4a2e-adc4-4f049dc224b6.jpg)   ![Screenshot_5](https://user-images.githubusercontent.com/48487470/190139309-41c4ed57-cf7a-49aa-bf09-639def5c7ca7.jpg)
+
+ 
 
 
-3. Task  with timer screen
-
-
-
-![Screenshot_3](https://user-images.githubusercontent.com/48487470/190139567-098aae20-e2bd-49c4-adea-3746d1c43d94.jpg)
-
-
-4. Add Task Screen 
-
-
-
-![Screenshot_4](https://user-images.githubusercontent.com/48487470/190139690-b5b146a5-5d93-4a2e-adc4-4f049dc224b6.jpg)
-
-5. Summary Screen
-
-
-![Screenshot_5](https://user-images.githubusercontent.com/48487470/190139309-41c4ed57-cf7a-49aa-bf09-639def5c7ca7.jpg)
+                                   
 
 
 # Alumni App
@@ -112,27 +95,19 @@
 ![signup 1](https://user-images.githubusercontent.com/48487470/190634852-9e774fa4-9b75-43e2-82aa-dca7664220f7.png)         ![signup 2](https://user-images.githubusercontent.com/48487470/190634955-8608e7e9-6959-4829-8bcb-cffe42e330f6.png)
 
 
-3. Dashboard Screen
-
-![home page](https://user-images.githubusercontent.com/48487470/190634406-8e85dc72-2a74-4b48-af2d-19058caf8439.jpg)
-
-4.Sign In Screen
-
-![sign in](https://user-images.githubusercontent.com/48487470/190635342-db9dc4ce-cf4e-40e6-b264-b8c48ecce86d.png)
-
-5. Search Screen 
  
- ![search](https://user-images.githubusercontent.com/48487470/190635414-86889b9e-c955-4570-93a9-18e5623584de.png)
 
-6. User Location
+![home page](https://user-images.githubusercontent.com/48487470/190634406-8e85dc72-2a74-4b48-af2d-19058caf8439.jpg)    ![sign in](https://user-images.githubusercontent.com/48487470/190635342-db9dc4ce-cf4e-40e6-b264-b8c48ecce86d.png)
 
-![map](https://user-images.githubusercontent.com/48487470/190635478-6558ff6d-ebbd-47f1-96cf-5650d6def53a.png)
-
-7. Profile Screen
-
- ![Screenshot_2020-09-13-10-47-49-49](https://user-images.githubusercontent.com/48487470/190635600-0b8e9060-61c4-42c0-ae96-be84034582c6.jpg)         ![Screenshot_2020-09-13-10-48-03-71](https://user-images.githubusercontent.com/48487470/190635628-e9d0644a-5521-406c-85d8-b2bde3fc511b.jpg)
  
- 8. Chat Screen
+ 
+ ![search](https://user-images.githubusercontent.com/48487470/190635414-86889b9e-c955-4570-93a9-18e5623584de.png)    ![map](https://user-images.githubusercontent.com/48487470/190635478-6558ff6d-ebbd-47f1-96cf-5650d6def53a.png)
+
+ 
+
+ ![Screenshot_2020-09-13-10-47-49-49](https://user-images.githubusercontent.com/48487470/190635600-0b8e9060-61c4-42c0-ae96-be84034582c6.jpg)  [Screenshot_2020-09-13-10-48-03-71](https://user-images.githubusercontent.com/48487470/190635628-e9d0644a-5521-406c-85d8-b2bde3fc511b.jpg)
+ 
+ 
  
  ![chat](https://user-images.githubusercontent.com/48487470/190635751-0cef6dba-a659-40f7-acc0-6ffdf99e4a50.png)
 
