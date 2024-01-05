@@ -108,8 +108,7 @@ Maintaining each user profile. Separate text chatting between each two users. se
 
 ********************************************************************************************************************************************************************
  
- 
-![bloc example](https://github.com/navidanchitrali/My-Portfolio/assets/48487470/89ab0316-245e-48e0-a21a-f2960b219570)
+ ![bloc example](https://github.com/navidanchitrali/My-Portfolio/assets/48487470/abd903bc-416f-4508-8d6f-8661d81e253f)
 
 
  *********************************************************************************************************************************************************************
