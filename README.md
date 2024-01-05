@@ -38,7 +38,19 @@ Main features include;  loading videos from YouTube, Products from Shopify (send
  
 **********************************************************************************************************************************************************************
 
+**********************************************************************************************************************************************************************
 
+
+# Wash Mesh
+
+ **********************************************************************************************************************************************************************
+Wash Mesh offer information and means to obtain multiple services including car/bike wash, Detailing, House Wash, Water tank Cleaning, Upholstery cleaning, Laundry, Electrician, Plumber, AC Expert, and House Maids etc.
+Main functionality include Login/Sign Up through API as a customer or Service Provider. Customer request for a service then all online Service Provider receive notification about the Orders. When Service provider accept the request then they can further share locations, send messages to each other and the service provider reach the customer through Google Map and give rating to each other as well
+**********************************************************************************************************************************************************************
+![washmesh](https://github.com/navidanchitrali/My-Portfolio/assets/48487470/5c98f697-4b4d-428b-b4a0-e0155413a6a4)
+
+**********************************************************************************************************************************************************************
+**********************************************************************************************************************************************************************
 # Habbit Tracker App
 
 **********************************************************************************************************************************************************************
