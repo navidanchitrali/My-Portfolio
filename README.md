@@ -114,23 +114,7 @@ Maintaining each user profile. Separate text chatting between each two users. se
 Main features include; posting daily updates, chatting feature, searching feature according to job type, google maps showing the user location 
 
 ********************************************************************************************************************************************************************** 
-
-
- 
-![first view](https://user-images.githubusercontent.com/48487470/190634617-43f5c127-80d1-42a6-9523-308795866f63.jpg)     ![signup 1](https://user-images.githubusercontent.com/48487470/190634852-9e774fa4-9b75-43e2-82aa-dca7664220f7.png)         ![signup 2](https://user-images.githubusercontent.com/48487470/190634955-8608e7e9-6959-4829-8bcb-cffe42e330f6.png)
-
-**********************************************************************************************************************************************************************
- 
-
-![home page](https://user-images.githubusercontent.com/48487470/190634406-8e85dc72-2a74-4b48-af2d-19058caf8439.jpg)    ![sign in](https://user-images.githubusercontent.com/48487470/190635342-db9dc4ce-cf4e-40e6-b264-b8c48ecce86d.png)  ![search](https://user-images.githubusercontent.com/48487470/190635414-86889b9e-c955-4570-93a9-18e5623584de.png) 
-
-*********************************************************************************************************************************************************************
-![alumni](https://user-images.githubusercontent.com/48487470/190873361-419af330-b35e-4f6d-9f27-d39864e998c3.jpg)
-
-
-*********************************************************************************************************************************************************************
-
-![map](https://user-images.githubusercontent.com/48487470/190635478-6558ff6d-ebbd-47f1-96cf-5650d6def53a.png)        ![map](https://user-images.githubusercontent.com/48487470/190873348-4ced3ffb-732c-4b0a-ba1a-9a77d67aebe9.png)
+ ![fyp](https://github.com/navidanchitrali/My-Portfolio/assets/48487470/dafb6db4-28f9-4133-a991-3e680d6aec40)
 
 
 *********************************************************************************************************************************************************************
