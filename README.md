@@ -95,7 +95,18 @@ Maintaining each user profile. Separate text chatting between each two users. se
  ![getxexample](https://github.com/navidanchitrali/My-Portfolio/assets/48487470/293aaa45-547b-445f-9344-0a5c2b1b8eb8)
 
 
- *********************************************************************************************************************************************************************
+ ***********************************************************************************************************************************
+ ********************************************************************************************************************************
+
+# Nematics
+
+**********************************************************************************************************************************
+This contain a puzzle in which initially four methods were used, addition, subtraction, multiplication and division. A random question is displayed to the user from one of these method and there is 10 seconds time to solve the question, then automatically move to the next question. There is also option a play the game between to users.
+**********************************************************************************************************************************
+ 
+![nematics](https://github.com/navidanchitrali/My-Portfolio/assets/48487470/cbf36b0e-1234-4b8b-b7da-6fe28ef2595f)
+
+*********************************************************************************************************************************************************************
 
 # Todo App using Bloc
 
