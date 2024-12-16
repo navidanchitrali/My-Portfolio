@@ -2,6 +2,50 @@ As an experienced Flutter developer proficient in MVVM architecture, Firebase, a
 
 
 
+
+
+**********************************************************************************************************************************************************************
+#                                                           Natural Calm Warehouse Management system
+ **********************************************************************************************************************************************************************
+
+The Natural Calm Canada Warehouse Management System (WMS) is a cross-platform solution developed for Android, iOS, tablets, and Windows, aimed at optimizing and automating warehouse operations for Natural Calm Canada. This mobile and web-based application ensures streamlined processes, improving overall warehouse accuracy and productivity.
+
+Key Features:
+
+Inventory Management:
+
+Goods Receiving:
+
+Goods Issue:
+
+Order Processing:
+
+Product Transfers:
+
+ **********************************************************************************************************************************************************************
+  
+ 
+![nc2](https://github.com/user-attachments/assets/9a11e137-fac9-4d02-9244-82ea039dd55a)
+
+
+ 
+**********************************************************************************************************************************************************************
+
+**********************************************************************************************************************************************************************
+#                                                           Natrual Calm Eccommerce App
+ **********************************************************************************************************************************************************************
+
+The Natural Calm Canada E-commerce App is a cross-platform solution for Android, iOS, tablets, and Windows that allows users to browse and purchase Natural Calm products. Key features include user login, the ability to add products to favorites, submit orders, and track order history in real-time. Developed with Flutter, the app provides a smooth, intuitive shopping experience with secure payment integration and seamless order management. The app is designed to enhance customer engagement while offering a fast and reliable shopping platform.
+
+ **********************************************************************************************************************************************************************
+  
+
+ 
+![nc1](https://github.com/user-attachments/assets/5ecbf9c3-b14a-4ce6-ba52-8ce605c18d9d)
+
+
+ 
+**********************************************************************************************************************************************************************
  
 **********************************************************************************************************************************************************************
 #                                                           Workout app
