@@ -44,6 +44,19 @@ The Natural Calm Canada E-commerce App is a cross-platform solution for Android,
 ![nc1](https://github.com/user-attachments/assets/5ecbf9c3-b14a-4ce6-ba52-8ce605c18d9d)
 
 
+ **********************************************************************************************************************************************************************
+
+**********************************************************************************************************************************************************************
+#                                                          SOWA App
+ **********************************************************************************************************************************************************************
+
+ Cross-platform app for Android, iOS, tablets, and Windows that allows users to browse and purchase Sowa Tools. Key features include user login, the ability to add products to favorites, submit orders, and track order history in real-time. Developed with Flutter, the app provides a smooth, intuitive shopping experience with secure payment integration and seamless order management. The app is designed to enhance customer engagement while offering a fast and reliable shopping platform.
+
+ **********************************************************************************************************************************************************************
+  
+![sowa](https://github.com/user-attachments/assets/8a118a13-919d-413d-8011-e9ef1545c73e)
+
+ 
  
 **********************************************************************************************************************************************************************
  
